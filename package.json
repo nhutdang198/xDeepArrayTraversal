@@ -1,0 +1,27 @@
+{
+  "name": "x-deep-array-traversal",
+  "version": "10.000.01",
+  "description": "**xDeepArrayTraversal** is a utility function in JavaScript/TypeScript that recursively traverses a deeply nested array and applies a callback function to each non-array element encountered. This is useful for tasks that involve working with deeply nested array structures.",
+  "main": "xDeepArrayTraversal.js",
+  "devDependencies": {
+    "@types/jest": "^29.5.4",
+    "jest": "^29.6.3",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "test": "npx jest",
+    "build": "npx tsc xDeepArrayTraversal.ts"
+  },
+  "author": "nhutdm",
+  "license": "MIT",
+  "keywords": [
+    "x-deep-array-traversal",
+    "x deep array traversal",
+    "deep array traversal",
+    "loop through deep array",
+    "deep array iteration",
+    "array traversal",
+    "deep array"
+  ]
+}
